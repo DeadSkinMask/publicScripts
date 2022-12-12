@@ -1,0 +1,1 @@
+curl -u <username>:<password> -X POST -F "action=replicate" -F "packageName=<nombre_del_paquete>" -F "packageGroup=<grupo_del_paquete>" <URL_del_servidor_de_AEM>/crx/packmgr/service.jsp
